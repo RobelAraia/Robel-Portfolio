@@ -1,1 +1,1 @@
-# Portfolio-2
+### Simple React based portfolio written in mostly TypeScript
