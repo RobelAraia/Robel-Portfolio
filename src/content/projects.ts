@@ -12,7 +12,7 @@ export default [
   {
     title: "Robel Araia's Portfolio Website",
     description:
-      "My portfolio website serves as an online showcase of my skills, projects, and achievements. It's a dynamic platform where I present my professional profile and provide details about my projects, and qualifications.",
+      "My portfolio website serves as an online showcase of my skills, projects, and achievements. It's a dynamic platform where I present my professional profile and provide details about my projects and qualifications.",
     skills: [
       "Web Development",
       "Version Control",
