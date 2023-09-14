@@ -16,7 +16,7 @@ export default [
   {
     input: "Robel.cv",
     return:
-      '"<a rel="noopener" href="https://jays-code-collection.github.io/portfolio/jaysharma.pdf" target="_blank">jaysharma.pdf</a>"',
+      '"<a rel="noopener" href="https://RobelAraia.github.io/Portfolio-2/Robel%20Araia%20CV.pdf" target="_blank">Robel Araia CV.pdf</a>"',
   },
   {
     input: "Robel.education",
