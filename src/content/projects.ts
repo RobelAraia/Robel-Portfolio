@@ -1,4 +1,4 @@
-import hmm from "../images/AAPLresults_plot.png";
+import hmm from "../images/Portfolio_website.png";
 
 type ProjectsType = {
   title: string;
