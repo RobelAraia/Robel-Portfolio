@@ -10,19 +10,20 @@ type ProjectsType = {
 
 export default [
   {
-    title: "Stock Market Predictor",
+    title: "Robel Araia's Portfolio Website",
     description:
-      "First coding project. For now an entirely backend project that trains a Hidden Markov Model on publicly available stock market data and will predict future stock prices for X amount of days. Predictions have a Mean Absolute Percentage error of 1.2%. Well tested with small, medium and large tests.",
+      "My portfolio website serves as an online showcase of my skills, projects, and achievements in the field of web development. It's a dynamic platform where I present my professional profile and provide details about my work experience, projects, and qualifications.",
     skills: [
-      "Python",
-      "Hidden Markov Models",
-      "Machine Learning",
-      "Docker",
-      "Pytest",
+      "Web Development",
+      "Version Control",
+      "Content Creation",
+      "Project Management",
+      "Command Line (Git Bash)",
+      "TypeScript"
     ],
     image: hmm,
     links: {
-      github: "https://github.com/Jays-code-collection/HMMs_Stock_Market",
+      github: "https://github.com/RobelAraia/Portfolio-2.git",
     },
   },
 ] as ProjectsType[];
