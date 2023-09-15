@@ -8,7 +8,7 @@ const Intro = () => (
     Hello, I'm Robel, currently in transition and eager to embark on a new professional journey.
     I have a strong interest in software engineering and cloud technologies, and I'm actively seeking opportunities in these fields.
     My dedication to continuous learning and exploration fuels my passion for acquiring new skills and making a meaningful impact in the tech industry. I am currently
-    working on a Fantasy Premier League project which gathers data on the best performing players in each position in a given week.
+    working on a Fantasy Premier League project which gathers data on the best performing players in each position in a given week. Hello hello
     </div>
   </div>
 );
