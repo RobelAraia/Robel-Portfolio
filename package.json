@@ -1,7 +1,7 @@
 {
   "name": "robel-portfolio",
   "version": "0.1.0",
-  "homepage": "https://RobelAraia.github.io/Portfolio-2",
+  "homepage": "https://robelaraia.github.io/Portfolio-2",
   "private": true,
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.1.17",
