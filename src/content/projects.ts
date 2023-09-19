@@ -23,7 +23,7 @@ export default [
     ],
     image: hmm,
     links: {
-      github: "https://github.com/RobelAraia/Portfolio-2.git",
+      github: "https://github.com/RobelAraia/Robel-Portfolio.git",
     },
   },
 ] as ProjectsType[];
